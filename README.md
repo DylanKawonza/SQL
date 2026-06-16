@@ -48,6 +48,7 @@ This allowed me to:
 
 It showed me how raw data becomes meaningful when grouped correctly.
 
+###This is an example of me using the group by function 
 <img width="1483" height="783" alt="image" src="https://github.com/user-attachments/assets/ed07133d-8af0-47e6-b633-42640d948f8f" />
 
 
@@ -72,6 +73,7 @@ These helped me combine tables to answer questions like:
 
 This taught me how relational databases prevent duplication and keep data consistent.
 
+###Here is how I used the join function during the bootcamp in an excercise we did 
 <img width="1483" height="792" alt="image" src="https://github.com/user-attachments/assets/98db82d6-646c-4403-89a8-67bec155fd13" />
 
 ---
