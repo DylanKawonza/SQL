@@ -19,6 +19,11 @@ I learned how to retrieve and filter data using:
 - `IN`, `BETWEEN`, `LIKE`  
 - `LIMIT`
 
+##Here are some examples of me using listed functions in various ways to find out different information 
+<img width="1687" height="809" alt="image" src="https://github.com/user-attachments/assets/1a95cacb-2527-48b7-b4ba-e426a3b7e40d" />
+
+
+
 These skills helped me answer real business questions such as:
 
 - Finding high‑value products  
@@ -43,6 +48,9 @@ This allowed me to:
 
 It showed me how raw data becomes meaningful when grouped correctly.
 
+<img width="1483" height="783" alt="image" src="https://github.com/user-attachments/assets/ed07133d-8af0-47e6-b633-42640d948f8f" />
+
+
 ---
 
 ### 🔗 JOINs & Relational Thinking
@@ -63,6 +71,8 @@ These helped me combine tables to answer questions like:
 - Full customer + order + employee reports  
 
 This taught me how relational databases prevent duplication and keep data consistent.
+
+<img width="1483" height="792" alt="image" src="https://github.com/user-attachments/assets/98db82d6-646c-4403-89a8-67bec155fd13" />
 
 ---
 
